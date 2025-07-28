@@ -91,7 +91,7 @@ Expand real-world generalization by augmenting with more granular data on job le
 
 References:
 
-Kaggle Job Description Dataset : https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset?resource=download
+Kaggle Job Description Dataset
 
 Project outputs: https://drive.google.com/drive/folders/1bxfK7Kn4qTMm-uN0TstGDnIUbklJX9vB?usp=sharing
 
