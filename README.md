@@ -21,7 +21,7 @@ Fields: Country, City, Job Title, Role, Salary, Experience, Description, Geoloca
 Project Structure:
 
 text
-├── GlobalJob_MarketSegmentation.docx    # Project report, summary, and tables
+├── GlobalJob_MarketSegmentation.pdf    # Project report, summary, and tables
 ├── GlobalJobMarketSegmentation.ipynb    # Complete data science notebook
 ├── outputs/                             # (See GDrive link for outputs)
 ├── README.md                            # (this file)
