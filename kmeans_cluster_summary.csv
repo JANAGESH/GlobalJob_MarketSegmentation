@@ -1,0 +1,6 @@
+kmeans_cluster,Top_Role,Top_Salary,Top_Location,Top_Company_Size,Top_Experience_Level,Num_Postings
+0,Network Administrator,80.0,apia,Other,5 to 12 Years,86954
+1,Customer Success Manager,74.5,apia,Other,2 to 11 Years,6833
+2,Interaction Designer,76.0,apia,Other,5 to 15 Years,1347
+3,Social Media Manager,88.0,seoul,Other,4 to 12 Years,1780
+4,Quality Assurance Analyst,89.0,apia,Other,2 to 9 Years,3086
