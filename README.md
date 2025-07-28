@@ -21,7 +21,7 @@ Fields: Country, City, Job Title, Role, Salary, Experience, Description, Geoloca
 Project Structure:
 
 text
-├── GlobalJob_MarketSegmentation.pdf    # Project report, summary, and tables
+├── GlobalJob_MarketSegmentationReport.pdf    # Project report, summary, and tables
 ├── GlobalJobMarketSegmentation.ipynb    # Complete data science notebook
 ├── outputs/                             # (See GDrive link for outputs)
 ├── README.md                            # (this file)
@@ -60,7 +60,7 @@ Cluster 4 (3.1%): Senior engineering and QA (Quality Assurance Analyst, Manufact
 Top Cities: Apia, Seoul, Hanoi, Caracas, San Juan, Cockburn Town, Ashgabat
 Topic Themes: Varying by cluster; e.g., "user, data, design" for tech, "sales, customer" for support
 
-See the full report (GlobalJob_MarketSegmentation.pdf) or the notebook for detailed tables.
+See the full report (GlobalJob_MarketSegmentationReport.pdf) or the notebook for detailed tables.
 
 How to Run:
 
